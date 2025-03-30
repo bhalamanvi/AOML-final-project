@@ -47,6 +47,8 @@ The system uses the Spoonacular API (https://spoonacular.com/food-api) which pro
 - **API Integration**: Spoonacular API for recipe data
 - **Backend**: Python with scikit-learn and TensorFlow
 - **Data Storage**: Local JSON for saved recipes
+- **Hugging Face**: Deployed on Hugging Face Space
+
 
 ### 3. Features
 - **Nutritional Target Input**:
